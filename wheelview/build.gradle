@@ -1,7 +1,4 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-//apply plugin: 'com.novoda.bintray-release'//添加插件
-group='com.github.More-Stronger'
 
 android {
     compileSdkVersion 28
