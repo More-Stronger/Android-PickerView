@@ -18,7 +18,7 @@
       
 #### 2. Add the dependency
 	   dependencies {
-	          implementation 'com.github.More-Stronger.Android-PickerView:pickerview:v2.0.0'
+	          implementation 'com.github.More-Stronger.Android-PickerView:pickerview:v2.0.1'
 	   }
       
 #### 3.时间选择器使用参数
