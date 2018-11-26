@@ -1,6 +1,7 @@
 
 ## Android-PickerView
 [![](https://jitpack.io/v/More-Stronger/Android-PickerView.svg)](https://jitpack.io/#More-Stronger/Android-PickerView)
+
    这是一个基于Bigkoo/Android-PickerView选择控件基础上,添加日期是否显示星期数功能
    ![TimePickerWeek.gif](https://github.com/More-Stronger/Android-PickerView/blob/master/preview/timepicker_week.gif)
    
